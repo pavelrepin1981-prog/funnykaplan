@@ -8,7 +8,7 @@ const mediaLinks = [
 const documentLinks = [
   'assets/playlist.xlsx',
   'assets/tech-rider.xlsx',
-  'https://t.me/pr_productions',
+  'https://t.me/coverdirector',
 ];
 const downloadRows = document.querySelectorAll('.download-row');
 const downloadLabels = ['ПЛЕЙЛИСТ ГРУППЫ', 'ТЕХРАЙДЕР ГРУППЫ', 'СВЯЗАТЬСЯ В TELEGRAM'];
